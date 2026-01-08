@@ -1,8 +1,8 @@
 # Vinayak Sharma
 
-Personal website of **Vinayak Sharma**, a self-taught frontend developer from India.
+Personal website of **Vinayak Sharma**, a self-taught frontend developer from Pune, Maharashtra India.
 
-🔗 Live site: https://vinayaksharma.dev
+Live site: https://vinayaksharmadev.netlify.app/
 
 ---
 
@@ -21,7 +21,7 @@ This website represents my online identity, work, and learning journey as I grow
 - CSS3
 - JavaScript
 - Responsive Design
-- Git & GitHub
+- GitHub
 
 ---
 
@@ -46,7 +46,7 @@ This website represents my online identity, work, and learning journey as I grow
 
 ## Contact & Profiles
 
-- Website: https://vinayaksharma.dev
+- Website: https://vinayaksharmadev.netlify.app/
 - GitHub: https://github.com/VinayakSharmaDev
 - LinkedIn: https://www.linkedin.com/in/vinayaksharmadev
 - X (Twitter): https://x.com/vinayaksharma05
