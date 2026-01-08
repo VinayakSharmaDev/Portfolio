@@ -5,7 +5,7 @@ const projectContent = document.querySelector(".project--content");
 
 const projectContentData = [
     {image: "assets/img/Minimal Music Player.png", title: "Spotify - Home Page", Discription: "A minimal Spotify-inspired music player built using HTML, CSS, and JavaScript.", mode: "🟢 Online", demo: "https://minimal-music-player-ui.netlify.app/", github: "https://github.com/VinayakSharmaDev/minimal-music-player"},
-    {image: "assets/img/Portfolio.png", title: "First Portfolio", Discription: "My First ever portfolio", mode: "🟢 Online", demo: "#", github: ""},
+    {image: "assets/img/Portfolio.png", title: "First Portfolio", Discription: "My First ever portfolio", mode: "🟢 Online", demo: "https://vinayaksharmadev.netlify.app/", github: "https://github.com/VinayakSharmaDev/Portfolio"},
 ]
 
 projectContentData.forEach(card =>{
