@@ -675,6 +675,20 @@ footer {
     align-items: center;
 }
 
+.rights p:last-child{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 5px;
+    gap: 6px;
+}
+
+.rights img{
+    display: flex;
+    align-items: center;
+    border-radius: 50%;
+}
+
 
 
 @media (max-width:650px) {
