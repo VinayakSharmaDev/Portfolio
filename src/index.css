@@ -12,7 +12,7 @@ html {
 }
 
 .btn {
-    @apply bg-[#c75b12] rounded-lg sm:p-1 sm:px-2 transition-all duration-200 translate-y-1 
+    @apply bg-[#c75b12] rounded-lg sm:p-1 sm:px-2 transition-all duration-200 translate-y-1  
 }
 
 .btn:hover {
