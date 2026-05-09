@@ -7,7 +7,7 @@ This project showcases my skills, projects, and experience as a web developer.
 
 ## Live Demo
 
-https://vinayaksharmadev.github.io/vinayaksharma
+https://VinayakSharmaDev.github.io/Portfolio
 
 ---
 
