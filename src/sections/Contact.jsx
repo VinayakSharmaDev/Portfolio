@@ -28,7 +28,7 @@ function Contact() {
 
                     <div className="my-3 flex flex-wrap gap-3 [&>*]:cursor-pointer [&>*]:px-2 [&>*]:py-1 rounded-sm">
                         <button className="btn"><a href="https://github.com/VinayakSharmaDev" target="_blank">GitHub</a></button>
-                        <button className="btn"><a href="x.com/vinayaksharmadv" target="_blank">X.com</a></button>
+                        <button className="btn"><a href="https://x.com/vinayaksharmadv" target="_blank">X.com</a></button>
                         <button className="btn"><a href="https://www.linkedin.com/in/vinayaksharmadev" target="_blank">LinkedIn</a></button>
                     </div>
                 </div>
