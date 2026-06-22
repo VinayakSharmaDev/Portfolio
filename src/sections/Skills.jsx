@@ -5,8 +5,8 @@ import Tailwind from '../assets/img/tailwind.png';
 import React from '../assets/img/react.png';
 import Git from '../assets/img/git.png';
 import GitHub from '../assets/img/github.png';
-import Vite from '../assets/img/vite.png';
-import Vitest from '../assets/img/vitest.png';
+// import Vite from '../assets/img/vite.png';
+// import Vitest from '../assets/img/vitest.png';
 
 function Skills() {
     return (
@@ -33,8 +33,8 @@ function Skills() {
                     <ul className="flex gap-2 gap-y-0 flex-wrap [&>*]:text-[14px] [&>*]:font-bold [&>*]:flex [&>*]:items-center">
                         <li><img className='size-6' src={Git} alt="" /> Git</li>
                         <li><img className='size-6' src={GitHub} alt="" /> GitHub</li>
-                        <li><img className='size-6' src={Vite} alt="" /> Vite</li>
-                        <li><img className='size-6' src={Vitest} alt="" /> Vitest(Basic Understanding)</li>
+                        {/* <li><img className='size-6' src={Vite} alt="" /> Vite</li>
+                        <li><img className='size-6' src={Vitest} alt="" /> Vitest(Basic Understanding)</li> */}
                     </ul>
                 </div>
             </div>
@@ -43,3 +43,12 @@ function Skills() {
 };
 
 export default Skills;
+
+
+
+
+
+
+
+
+
